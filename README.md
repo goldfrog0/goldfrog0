@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @goldfrog0                 Xavier Garrido, I have a BS in Applied Mathematics, and am learning how to build Software.
+- 👋 Hi, I’m @goldfrog0                 Xavier Garrido, I am a teacher of three years. I have a BS in Applied Mathematics, and I use software solve problems, and visualize mathematics. I also like to work on fun side projects. 
 - 👀 I’m interested in ...              Backend Development, Applied Mathematics
 - 🌱 I’m currently learning ...         Haskell and Python!!
 - 💞️ I’m looking to collaborate on ...  Projects that implement mathematical modelling  
